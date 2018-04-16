@@ -2,16 +2,6 @@
 title: "Portfolio"
 author: "Jennifer Smiley"
 date: "April 15, 2018"
-output:
-  html_document:
-    highlight: tango
-    keep_md: yes
-    theme: paper
-    toc: yes
-  pdf_document:
-    toc: no
-  word_document:
-    toc: no
 ---
 
 
